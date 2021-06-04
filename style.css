@@ -1,0 +1,21 @@
+img{
+  max-width: 300px;
+  max-height: 300px;
+  border: 1rem solid;
+  border-radius: 10px;
+}
+body{
+  background: powderblue;
+}
+hr {
+  border-color: grey;
+  border-style: dotted none none;
+  border-width: 9px;
+  width: 10%;
+}
+h1{
+  color: #39a6a3;
+}
+h3{
+  color: #66BFBF;
+}
